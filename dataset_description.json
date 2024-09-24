@@ -1,0 +1,9 @@
+{
+    "Name": "Spatial Memory of Object Locations with Open-Loop Stimulation at Encoding",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Haydn G. Herrema",
+        "Michael J. Kahana"
+    ]
+}
